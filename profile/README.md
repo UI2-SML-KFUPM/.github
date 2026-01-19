@@ -63,5 +63,5 @@ This project develops a safety-aware, model-free reinforcement learning framewor
 
 
 <p align="center">
-  <img src="assets/drone_gate_put.png" alt="tunnel_project" width="800">
+  <img src="assets/drone_gate_put2.png" alt="tunnel_project" width="1000">
 </p>
